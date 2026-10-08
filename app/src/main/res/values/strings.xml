@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SG Air</string>
+    <string name="widget_name">PSI &amp; PM2.5</string>
+    <string name="widget_desc">24-hr PSI and 1-hr PM2.5 for the region you are in</string>
+    <string name="psi_label">PSI · 24 hr</string>
+    <string name="pm25_label">PM2.5 · 1 hr</string>
+    <string name="pm25_unit">µg/m³</string>
+    <string name="all_regions">All regions</string>
+    <string name="region_col">Region</string>
+    <string name="show_for">Show on widget</string>
+    <string name="appearance">Appearance</string>
+    <string name="refresh">Refresh</string>
+    <string name="attribution">Source: National Environment Agency (NEA) via data.gov.sg, under the Singapore Open Data Licence. Readings are published hourly for five regions.</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <color name="bg">#F2F4F5</color>
+    <color name="card_light">#FFFFFF</color>
+    <color name="card_dark">#1C2226</color>
+    <color name="card">@color/card_light</color>
+    <color name="text">#1A1F23</color>
+    <color name="text_muted">#667079</color>
+    <color name="accent">#1F7A8C</color>
+    <color name="band_good">#2E9E5B</color>
+    <color name="band_moderate">#2F7FD6</color>
+    <color name="band_unhealthy">#C98A00</color>
+    <color name="band_very_unhealthy">#E0621A</color>
+    <color name="band_hazardous">#D12F2F</color>
+    <bool name="light_bars">true</bool>
+</resources>

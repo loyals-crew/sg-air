@@ -1,0 +1,13 @@
+<resources>
+    <color name="bg">#101416</color>
+    <color name="card">@color/card_dark</color>
+    <color name="text">#ECEFF1</color>
+    <color name="text_muted">#98A2AA</color>
+    <color name="accent">#5FB7C9</color>
+    <color name="band_good">#55C583</color>
+    <color name="band_moderate">#6AA9EE</color>
+    <color name="band_unhealthy">#F0B93A</color>
+    <color name="band_very_unhealthy">#F58A4B</color>
+    <color name="band_hazardous">#F26B6B</color>
+    <bool name="light_bars">false</bool>
+</resources>
